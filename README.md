@@ -14,8 +14,8 @@ Während wir noch alles auf GitHub umstellen könnt ihr auch schon alle vorhande
   - [Pflichtaufgabe 3](/Pflichtaufgaben/Pflichtaufgabe3)
   - [Pflichtaufgabe 4](/Pflichtaufgaben/Pflichtaufgabe4)
   - [Pflichtaufgabe 5](/Pflichtaufgaben/Pflichtaufgabe5) -->
-- [Photoshop]()
-  - [Basics der Benutzeroberfläche](/Photoshop/Basics der Benutzeroberfläche)
+- [Photoshop](/Photoshop/)
+  - [Basics der Benutzeroberfläche](/Photoshop/Photoshop/Basics%20der%20Benutzeroberfläche)
   - [QuickTips](/Photoshop/QuickTips)
   - [Aufgabe 1](/Photoshop/Aufgabe1)
 <!--
