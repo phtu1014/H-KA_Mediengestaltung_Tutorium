@@ -1,4 +1,3 @@
-# H-KA_Mediengestaltung_Tutorium
+# H-KA Mediengestaltung Tutorium
 
-Willommen zum Tutorium Mediengestaltung!
-Diese Veranstaltung ist begeleitend zum Labor Mediengestaltung für das 1. Semester MKI und MINB.
+Willommen zum Tutorium für das Labor Mediengestaltung im 1. Semester MKI und MINB!
