@@ -1,4 +1,4 @@
 # Quick Tips
 
 ##### [Tonwertkorrektur]()
-![Tonwertkorrektur_Thumbnail](/ps-tips-korrektur.png)
+![Tonwertkorrektur_Thumbnail](/QuickTips/ps-tips-korrektur.png)
