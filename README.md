@@ -8,16 +8,19 @@ Während wir noch alles auf GitHub umstellen könnt ihr auch schon alle vorhande
 
 ## Inhaltsverzeichnis
 - [Pflichtaufgaben](/Pflichtaufgaben)
- - [Pflichtaufgabe 1](/Pflichtaufgaben/Pflichtaufgabe1)
-<!-- - [Pflichtaufgabe 2](/Pflichtaufgaben/Pflichtaufgabe2)
- - [Pflichtaufgabe 3](/Pflichtaufgaben/Pflichtaufgabe3)
- - [Pflichtaufgabe 4](/Pflichtaufgaben/Pflichtaufgabe4)
- - [Pflichtaufgabe 5](/Pflichtaufgaben/Pflichtaufgabe5) -->
+  - [Pflichtaufgabe 1](/Pflichtaufgaben/Pflichtaufgabe1)
+<!--
+  - [Pflichtaufgabe 2](/Pflichtaufgaben/Pflichtaufgabe2)
+  - [Pflichtaufgabe 3](/Pflichtaufgaben/Pflichtaufgabe3)
+  - [Pflichtaufgabe 4](/Pflichtaufgaben/Pflichtaufgabe4)
+  - [Pflichtaufgabe 5](/Pflichtaufgaben/Pflichtaufgabe5) -->
 - [Photoshop]()
- - [QuickTips](/Photoshop/QuickTips)
- - [Aufgabe 1](/Photoshop/Aufgabe1)
-<!-- - [Aufgabe 2]()
- - [Aufgabe 3]() -->
-<!--- [Illustrator]()
+  - [QuickTips](/Photoshop/QuickTips)
+  - [Aufgabe 1](/Photoshop/Aufgabe1)
+<!--
+  - [Aufgabe 2]()
+  - [Aufgabe 3]() -->
+<!--
+- [Illustrator]()
 - [Figma]()
 - [Bilder zum Runterladen]()-->
