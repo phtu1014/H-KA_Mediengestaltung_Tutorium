@@ -11,8 +11,8 @@ Ich habe leider vergessen, meinen Schreibtisch sauber zu machen. Aus einem Foto 
 
   1. Bilddatei (oben) herunterladen
   2. Bild öffnen
-    - Rechtsklick auf die Datei -> Öffnen mit -> Adobe Photoshop **oder**
-    - Photoshop öffnen -> Datei -> Öffnen -> *Datei auswählen
+   - Rechtsklick auf die Datei -> Öffnen mit -> Adobe Photoshop **oder**
+   - Photoshop öffnen -> Datei -> Öffnen -> *Datei auswählen
 </details>
 
 <details>
