@@ -3,15 +3,18 @@
 ##### Ziel
 Ich habe leider vergessen, meinen Schreibtisch sauber zu machen. Aus einem Foto (unten) sollen ungewünschte Bereiche entfernt werden.
 
-<img src="/Photoshop/QuickTips/20201007_133814.jpg?raw=true"/>
+![Beispiel-Bild](/Photoshop/Aufgabe1/20201007_133814.jpg)
 
 ## Methode 1 - Bereiche wegschneiden
-1. Bild in Photoshop öffnen
+<details>
+ <summary> 1. Bild in Photoshop öffnen </summary>
  1. Bilddatei (oben) herunterladen
  2. Bild öffnen
   - Rechtsklick auf die Datei -> Öffnen mit -> Adobe Photoshop
   oder
   - Photoshop öffnen -> Datei -> Öffnen -> *Datei auswählen
+</details>
+
 2. Bild zuschneiden
  1. Das "Freistellungswerkzeug" (Shortcut: c) in der Werkzeugleiste links auswählen
  2. Bildausschnitt so ändern, dass weniger "Müll" im Bild ist
@@ -39,4 +42,5 @@ Ich habe leider vergessen, meinen Schreibtisch sauber zu machen. Aus einem Foto 
  2. Dateinamen und Speicherort wählen
 
  ## Tutorial Video
+ Aufs Bild klicken!
  [![PSAufgabe1_Video](https://img.youtube.com/vi/x3ElgBl44vA/0.jpg)](https://www.youtube.com/watch?v=x3ElgBl44vA)
