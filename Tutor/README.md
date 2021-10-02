@@ -23,7 +23,7 @@
 </details>
 
 ```
-Immer unter <summary> und unter </details> eine Zeile frei lassen!
+Immer unter \<summary> und unter \</details> eine Zeile frei lassen!
 
 ## Bilder
 Groß Bilder einfügen
