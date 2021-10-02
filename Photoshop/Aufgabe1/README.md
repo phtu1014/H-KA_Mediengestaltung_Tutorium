@@ -1,26 +1,29 @@
 # Aufgabe 1
 
-##### Ziel
+## Ziel
 Ich habe leider vergessen, meinen Schreibtisch sauber zu machen. Aus einem Foto (unten) sollen ungewünschte Bereiche entfernt werden.
 
 ![Beispiel-Bild](/Photoshop/Aufgabe1/20201007_133814.jpg)
 
 ## Methode 1 - Bereiche wegschneiden
 <details>
- <summary> 1. Bild in Photoshop öffnen </summary>
- 1. Bilddatei (oben) herunterladen
- 2. Bild öffnen
-  - Rechtsklick auf die Datei -> Öffnen mit -> Adobe Photoshop
-  oder
-  - Photoshop öffnen -> Datei -> Öffnen -> *Datei auswählen
+  <summary> 1. Bild in Photoshop öffnen </summary>
+    1. Bilddatei (oben) herunterladen
+    2. Bild öffnen
+      - Rechtsklick auf die Datei -> Öffnen mit -> Adobe Photoshop
+    oder
+      - Photoshop öffnen -> Datei -> Öffnen -> *Datei auswählen
 </details>
-
-2. Bild zuschneiden
- 1. Das "Freistellungswerkzeug" (Shortcut: c) in der Werkzeugleiste links auswählen
- 2. Bildausschnitt so ändern, dass weniger "Müll" im Bild ist
-3. Bild exportieren
- 1. Datei -> Exportieren -> Schnellexport als PNG
- 2. Dateinamen und Speicherort wählen
+<details>
+  <summary> 2. Bild zuschneiden </summary>
+    1. Das "Freistellungswerkzeug" (Shortcut: c) in der Werkzeugleiste links auswählen
+    2. Bildausschnitt so ändern, dass weniger "Müll" im Bild ist
+</details>
+<details>
+  <summary> 3. Bild exportieren </summary>
+    1. Datei -> Exportieren -> Schnellexport als PNG
+    2. Dateinamen und Speicherort wählen
+</details>
 
 ## Methode 2 - Den Mist wegretuschieren
 1. Bild in Photoshop öffnen
