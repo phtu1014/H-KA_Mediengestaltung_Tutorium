@@ -7,5 +7,5 @@ Priorisierung
 | Hoch  | - Gute Auflösung
           - Bild gut positioniert
           - Text bearbeitet|
-| Mittel  |   |
-| Nice To Have  |   |
+| Mittel  |  -  |
+| Nice To Have  |  -  |
