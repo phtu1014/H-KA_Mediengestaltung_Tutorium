@@ -12,15 +12,15 @@ Auch hier werde ich nach und nach mehr Einträge hinzufügen. Ich konzentrier mi
 <details>
   <summary> 2. Zoomen </summary>
 
-  Mit gedrückter "alt"-Taste das Mausrad drehen
-  (Alternativ kann auch das Zoom Werkzeug (z) aus der Werkzeugleiste verwendet werden. Das ist aber kacke :D )
+  Mit gedrückter **alt**-Taste das **Mausrad** drehen
+  (Alternativ kann auch das Zoom Werkzeug (**Z**) aus der Werkzeugleiste verwendet werden. Das ist aber kacke :D )
 </details>
 
 <details>
   <summary> 3. Leinwand hin und her ziehen </summary>
 
-  Mit gedrückter "Leertaste" wird aus dem Curson eine Hand
-  (Alternativ kann auch das Hand Werkzeug (h) aus der Werkzeugleiste verwendet werden)
+  Mit gedrückter **Leertaste** wird aus dem Curson eine Hand
+  (Alternativ kann auch das Hand Werkzeug (**H**) aus der Werkzeugleiste verwendet werden)
 </details>
 
 <details>
