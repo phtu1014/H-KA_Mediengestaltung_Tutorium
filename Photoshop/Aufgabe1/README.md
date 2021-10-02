@@ -51,16 +51,18 @@ Ich habe leider vergessen, meinen Schreibtisch sauber zu machen. Aus einem Foto 
 
 <details>
   <summary> 3. Mit dem Bereichsreperaturpinsel Spaß </summary>
+
   1. In der Werkzeugleiste (links an der Seite) das "Bereichsreperatur-Pinsel" (Icon: Pflaster) (Shortcut: j) auswählen
   2. Aus dem Stack das richtige Werkzeug auswählen
- Unter dem Pflaster Icon in der Werkzeugleiste verbergen sich mehrere Werkzeuge aus denen eins ausgewählt werden kann. Das Untermenü kann über einen rechtsklick auf das Haupticon in der Werkzeugleiste geöffnet werden. Das Werkzeug, das wir brauchen ist der "Bereichsreperatur-Pinsel" (standartmäßig das ganz oben in Untermenü).
+  Unter dem Pflaster Icon in der Werkzeugleiste verbergen sich mehrere Werkzeuge aus denen eins ausgewählt werden kann. Das Untermenü kann über einen rechtsklick auf das Haupticon in der Werkzeugleiste geöffnet werden. Das Werkzeug, das wir brauchen ist der "Bereichsreperatur-Pinsel" (standartmäßig das ganz oben in Untermenü).
   3. Per Klick auf Stellen im Bild Dinge wegretuschieren
 </details>
 
 <details>
   <summary> 4. Bild exportieren </summary>
- 1. Datei -> Exportieren -> Schnellexport als PNG
- 2. Dateinamen und Speicherort wählen
+
+  1. Datei -> Exportieren -> Schnellexport als PNG
+  2. Dateinamen und Speicherort wählen
 </details>
 
  ## Tutorial Video
