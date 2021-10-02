@@ -1,3 +1,4 @@
 # Quick Tips
 
-| ![Tonwertkorrektur_Thumbnail](/images/ps-tips-korrektur.png?raw=true) | [Tonwertkorrektur](/QuickTips/Tonwertkorrektur) |
+[Tonwertkorrektur](/QuickTips/Tonwertkorrektur)
+![Tonwertkorrektur_Thumbnail](/images/ps-tips-korrektur.png?raw=true) = 250x224
