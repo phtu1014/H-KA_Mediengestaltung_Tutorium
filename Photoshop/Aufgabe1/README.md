@@ -45,16 +45,16 @@ Ich habe leider vergessen, meinen Schreibtisch sauber zu machen. Aus einem Foto 
 <details>
   <summary> 2. Ebene rastern (um Pixelbearbeitung zu aktivieren) </summary>
 
- 1. Ebenenfenster finden. Standartmäßig ist das Fenster "Ebenen" irendwo rechts unten. Möglicherweise ist das Fenster ausgeblendet und muss erst über "Fenster -> Ebenen" eingeblendet werden.
- 2. Rechtsklick auf die Ebene -> Ebene rastern
+  1. Ebenenfenster finden. Standartmäßig ist das Fenster "Ebenen" irendwo rechts unten. Möglicherweise ist das Fenster ausgeblendet und muss erst über "Fenster -> Ebenen" eingeblendet werden.
+  2. Rechtsklick auf die Ebene -> Ebene rastern
 </details>
 
 <details>
   <summary> 3. Mit dem Bereichsreperaturpinsel Spaß </summary>
- 1. In der Werkzeugleiste (links an der Seite) das "Bereichsreperatur-Pinsel" (Icon: Pflaster) (Shortcut: j) auswählen
- 2. Aus dem Stack das richtige Werkzeug auswählen
+  1. In der Werkzeugleiste (links an der Seite) das "Bereichsreperatur-Pinsel" (Icon: Pflaster) (Shortcut: j) auswählen
+  2. Aus dem Stack das richtige Werkzeug auswählen
  Unter dem Pflaster Icon in der Werkzeugleiste verbergen sich mehrere Werkzeuge aus denen eins ausgewählt werden kann. Das Untermenü kann über einen rechtsklick auf das Haupticon in der Werkzeugleiste geöffnet werden. Das Werkzeug, das wir brauchen ist der "Bereichsreperatur-Pinsel" (standartmäßig das ganz oben in Untermenü).
- 3. Per Klick auf Stellen im Bild Dinge wegretuschieren
+  3. Per Klick auf Stellen im Bild Dinge wegretuschieren
 </details>
 
 <details>
