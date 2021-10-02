@@ -1,4 +1,4 @@
 # Quick Tips
 
-## [Tonwertkorrektur](/QuickTips/Tonwertkorrektur)
+## [Tonwertkorrektur](/Photoshop/QuickTips/Tonwertkorrektur)
 <img src="/images/ps-tips-korrektur.png?raw=true" width="250" height="224" />
