@@ -9,7 +9,7 @@ Ich habe leider vergessen, meinen Schreibtisch sauber zu machen. Aus einem Foto 
 <details>
   <summary> 1. Bild in Photoshop öffnen </summary>
 
-
+  ------
   1. Bilddatei (oben) herunterladen
   2. Bild öffnen
     - Rechtsklick auf die Datei -> Öffnen mit -> Adobe Photoshop
@@ -21,7 +21,7 @@ Ich habe leider vergessen, meinen Schreibtisch sauber zu machen. Aus einem Foto 
 <details>
   <summary> 2. Bild zuschneiden </summary>
 
-
+  --\---------
   1. Das "Freistellungswerkzeug" (Shortcut: c) in der Werkzeugleiste links auswählen
   2. Bildausschnitt so ändern, dass weniger "Müll" im Bild ist
 </details>
