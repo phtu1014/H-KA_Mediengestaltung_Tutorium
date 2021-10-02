@@ -1,4 +1,4 @@
-#H-KA Mediengestaltung Tutorium
+# H-KA Mediengestaltung Tutorium
 
 ## Einführung
 Willkommen zum Tutorium für das Labor Mediengestaltung im 1. Semester MKI und MINB!
