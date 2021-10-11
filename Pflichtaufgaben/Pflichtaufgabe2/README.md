@@ -12,11 +12,13 @@ Bevor ich euch an euer Bild dransetzt, solltet ihr erstmal Beispielbilder suchen
   Gebt die Aufgabe auf gar keinen Fall zu spät ab!
 </details>
 
+
 ##### Hoch
 <details>
   <summary> Richtige Abmessung/Dokumentengröße </summary>
 
-  Die Abmessung kann in Photoshop über die Menüleiste: "Bild -> Arbeitsfläche" geändert werden. Achtet darauf, dann beim Anwenden, der Anker im Pop-Up Fenster entsprechend gesetzt ist, sodass von den richtigen Seiten reingeschnitten wird.
+  1. Die Abmessung kann in Photoshop über die Menüleiste: "Bild -> Arbeitsfläche" geändert werden. Achtet darauf, dann beim Anwenden, der Anker im Pop-Up Fenster entsprechend gesetzt ist, sodass von den richtigen Seiten reingeschnitten wird.
+  2. Oder ihr benutzt das Template, das ihr im Ilias findet. Da könnt ihr auch einfach euer Bild reinsetzten und von dort aus arbeiten.
 </details>
 
 <details>
@@ -27,6 +29,7 @@ Bevor ich euch an euer Bild dransetzt, solltet ihr erstmal Beispielbilder suchen
 
   - In manchen Fällen kann die Qualität verloren gehen, wenn das Bild zu oft groß und klein transformiert wurde in Photoshop
 </details>
+
 
 ##### Mittel
 <details>
@@ -47,11 +50,6 @@ Bevor ich euch an euer Bild dransetzt, solltet ihr erstmal Beispielbilder suchen
   Gerne alles übereinander legen, damit alles nicht zu gesund aussieht.
 </details>
 
-<details>
-  <summary> Deformationen </summary>
-
-  Eure Haut hält vielleicht nicht mehr ganz mit, ihr habt abgenommen oder auch einfach paar kaputte Knochen.
-</details>
 
 ##### Nice To Have
 <details>
