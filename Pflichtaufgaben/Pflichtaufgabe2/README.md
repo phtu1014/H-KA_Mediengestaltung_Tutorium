@@ -45,6 +45,12 @@ Bevor ich euch an euer Bild dransetzt, solltet ihr erstmal Beispielbilder suchen
 </details>
 
 <details>
+  <summary> Haare auch gerne machen </summary>
+
+  Grad bei hellen Haaren sieht man Schmutz und Blut sehr gut, bei dunklen Haaren kommt ihr vielleicht damit klar weniger zu machen aber Schmutz kann auch mal grau oder weiß sein.
+</details>
+
+<details>
   <summary> Viel Schmutz, Texturen und Blut </summary>
 
   Gerne alles übereinander legen, damit alles nicht zu gesund aussieht.
