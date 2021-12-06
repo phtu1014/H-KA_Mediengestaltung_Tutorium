@@ -1,6 +1,6 @@
-#Figma
+# Figma
 
-##Inhaltsverzeichnis
+## Inhaltsverzeichnis
 - Figma Basics
   - TLDR Figma Basics - die Basics aber in sehr kurz und knapp
   - Figma Playlist

@@ -1,4 +1,4 @@
-#Figma Basics
+# Figma Basics
 Figma selbst arbeitet vektoriell, natürlich könnt ihr aber auch Pixelgrafiken verwenden. Es ist nur wichtig am Anfang eure Arbeitsflächengröße korrekt zu definieren.
 
 Eine kurze Version findet ihr [hier]().
@@ -14,7 +14,7 @@ Mausrad scrollen + Ctrl/Strg: Zoomen
 Mausrad scrollen + Shift: Linke Rechts
 
 
-##Interface
+## Interface
 
 ![Toolbar](/Figma/Figma_Images/Interface.png)
 In der oberen linken Ecke findet ihr eure Werkzeugleiste.
@@ -74,7 +74,7 @@ In der Mitte könnt ihr den Namen eurer Datei ändern.
 Weitere Einstellungen findet ihr ganz links in der oberen Leiste unter dem Figma Logo.
 
 
-##Shortcuts
+## Shortcuts
 ![Help](/Figma/Figma_Images/Help.png)
 ![Shortcuts](/Figma/Figma_Images/Shortcuts.png)
 Ihr könnt die Shortcut Hilfe öffnen, in dem ihr in der rechten unteren Ecke auf das Fragezeichensymbol klickt und auf **Keyboard Shortcuts** geht.
