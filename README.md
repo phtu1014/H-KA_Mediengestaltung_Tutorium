@@ -10,17 +10,16 @@ Während wir noch alles auf GitHub umstellen könnt ihr auch schon alle vorhande
 - [Pflichtaufgaben](/Pflichtaufgaben)
   - [Pflichtaufgabe 1](/Pflichtaufgaben/Pflichtaufgabe1)
   - [Pflichtaufgabe 2](/Pflichtaufgaben/Pflichtaufgabe2)
-<!--  - [Pflichtaufgabe 3](/Pflichtaufgaben/Pflichtaufgabe3)
-  - [Pflichtaufgabe 4](/Pflichtaufgaben/Pflichtaufgabe4)
-  - [Pflichtaufgabe 5](/Pflichtaufgaben/Pflichtaufgabe5) -->
 - [Photoshop](/Photoshop/)
   - [Basics der Benutzeroberfläche](/Photoshop/Basics%20der%20Benutzeroberfläche)
   - [QuickTips](/Photoshop/QuickTips)
   - [Aufgabe 1](/Photoshop/Aufgabe1)
-<!--
-  - [Aufgabe 2]()
-  - [Aufgabe 3]() -->
-<!--
-- [Illustrator]()
-- [Figma]()
-- [Bilder zum Runterladen]()-->
+- [Figma](/Figma)
+  - [Figma Basics](/Figma/Basics)
+    - [TLDR Figma Basics - die Basics aber in sehr kurz und knapp](/Figma/TLDR Figma Basics)
+    - [Figma Playlist](https://youtube.com/playlist?list=PLOoqJbq3QW5PwCeSSmmaCy61bC2bd0i55)
+  - [Layout Grid]()
+  - [Styles]()
+  - [Components]()
+  - [Auto Layout]()
+  - [Beispielaufgabe](/Figma/Beispielaufgabe)
