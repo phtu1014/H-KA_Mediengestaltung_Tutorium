@@ -20,11 +20,13 @@ Mausrad scrollen + Shift: Linke Rechts
 
 In der oberen linken Ecke findet ihr eure Werkzeugleiste.
 Unter einigen werden sich noch weitere Werkzeuge verstecken.
+
 ----------
 
 ![Mainmenu](/Figma/Figma_Images/MainMenu.png)
 
 Im Hauptmenü werdet ihr die Optionen finden, die in Ps und Ai in oberen linken Optionenliste sind.
+
 ----------
 
 ![V](/Figma/Figma_Images/V.png)
