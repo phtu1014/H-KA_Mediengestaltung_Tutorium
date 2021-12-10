@@ -1,7 +1,7 @@
 # Figma Basics
 Figma selbst arbeitet vektoriell, natürlich könnt ihr aber auch Pixelgrafiken verwenden. Es ist nur wichtig am Anfang eure Arbeitsflächengröße korrekt zu definieren.
 
-Eine kurze Version findet ihr [hier](/Figma/TLDR Figma Basics).
+Eine kurze Version findet ihr [hier](/Figma/TLDR%20Figma%20Basics).
 
 [Video Tutorial](https://youtu.be/bFBIPWKXWPg)
 
