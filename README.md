@@ -19,3 +19,4 @@ Während wir noch alles auf GitHub umstellen könnt ihr auch schon alle vorhande
     - [TLDR Figma Basics - die Basics aber in sehr kurz und knapp](/Figma/TLDR%20Figma%20Basics)
     - [Figma Playlist](https://youtube.com/playlist?list=PLOoqJbq3QW5PwCeSSmmaCy61bC2bd0i55)
   - [Beispiel](/Figma/Beispiel)
+  - [Tips](/Figma/Tips)
